@@ -1,4 +1,4 @@
-# TP5-MicroService
+# TP5-MicroService (Axel Pedrero / Simon Lours)
 
 # Blagues.pdf
 
