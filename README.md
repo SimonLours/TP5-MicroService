@@ -1,8 +1,10 @@
 # TP5-MicroService
 
-# Questions de compréhension
+# Blagues.pdf
 
-## Pourquoi faire des petits services ?
+## Questions de compréhension
+
+### Pourquoi faire des petits services ?
 
 1. Pourquoi voudrait-on **diviser** un gros service web en plusieurs morceaux plus petits ?
    
@@ -24,7 +26,7 @@
 
     Par exemple : Amazon, Netflix, etc., où chaque fonctionnalité (paiement, catalogue, suggestions, etc.) semble être un module à part.
 
-## Comment découper un service ?
+### Comment découper un service ?
 
 6. Sur quels critères peut-on séparer un gros service en plusieurs petits ?
 
@@ -41,4 +43,7 @@
 9. Le découpage doit-il être figé ou peut-il évoluer ?
 
     Il doit pouvoir évoluer. L’architecture logicielle est vivante : les besoins changent, et l’organisation du code doit pouvoir s’adapter sans tout réécrire.
+
+
+# Météo.pdf
 
